@@ -192,3 +192,7 @@ git push origin --tags
 <!--
 # vim: set tw=79:
 -->
+
+![Pay Print](https://raw.githubusercontent.com/pedropbazzo/stripePay-mock/master/spec/pay.png)
+
+
